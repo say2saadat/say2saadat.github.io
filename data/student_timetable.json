@@ -223,7 +223,7 @@
     "11:00 AM\n12:00PM": "EM III-L, MTD, R-2",
     "12:00 PM\n01:00PM": "OOPS-L, NCR, R-2",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "",
+    "02:00 PM\n03:00PM": "EM III-T, MTD, R-2",
     "03:00 PM\n04:00PM": "",
     "04:00 PM\n05:00PM": "IKS-L, ABK, R-2"
   },
@@ -260,16 +260,16 @@
     "12:00 PM\n01:00PM": "IKS-L, ABK, R-2",
     "Lunch": "",
     "02:00 PM\n03:00PM": "",
-    "03:00 PM\n04:00PM": "EDC-P, JPK+DP,",
-    "04:00 PM\n05:00PM": "EDC-P, JPK+DP,"
+    "03:00 PM\n04:00PM": "G1, EDC-P, JPK+DP,",
+    "04:00 PM\n05:00PM": "G1, EDC-P, JPK+DP,"
   },
   {
     "Branch": "ECE",
     "Semester": 3,
     "Day": "Friday",
     "10:00 AM\n11:00 AM": "EDC-L, JPK, R-2",
-    "11:00 AM\n12:00PM": "",
-    "12:00 PM\n01:00PM": "EM III-T, MTD, R-2",
+    "11:00 AM\n12:00PM": "G2, EDC-P, JPK+DP,",
+    "12:00 PM\n01:00PM": "G2, EDC-P, JPK+DP,",
     "Lunch": "",
     "02:00 PM\n03:00PM": "",
     "03:00 PM\n04:00PM": "S&S-L, ASK, R-2",
@@ -1591,7 +1591,7 @@
     "11:00 AM\n12:00PM": "PHY-P, MKP, ST",
     "12:00 PM\n01:00PM": "PHY-P, MKP, ST",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "M1-L, MTD, R-13",
+    "02:00 PM\n03:00PM": "",
     "03:00 PM\n04:00PM": "M1-T, MTD, R-13",
     "04:00 PM\n05:00PM": "PPS-L, ARK, R-5"
   },
@@ -1599,7 +1599,7 @@
     "Branch": "CSE (DS)",
     "Semester": 1,
     "Day": "Tuesday",
-    "10:00 AM\n11:00 AM": "",
+    "10:00 AM\n11:00 AM": "M1-L, MTD, R-13",
     "11:00 AM\n12:00PM": "",
     "12:00 PM\n01:00PM": "",
     "Lunch": "",
@@ -1624,11 +1624,11 @@
     "Semester": 1,
     "Day": "Thursday",
     "10:00 AM\n11:00 AM": "",
-    "11:00 AM\n12:00PM": "",
-    "12:00 PM\n01:00PM": "",
+    "11:00 AM\n12:00PM": "BEE-P, SJK, DP",
+    "12:00 PM\n01:00PM": "BEE-P, SJK, DP",
     "Lunch": "",
-    "02:00 PM\n03:00PM": "BEE-P, SJK, DP",
-    "03:00 PM\n04:00PM": "BEE-P, SJK, DP",
+    "02:00 PM\n03:00PM": "",
+    "03:00 PM\n04:00PM": "",
     "04:00 PM\n05:00PM": "PHY-L, MKP, R5"
   },
   {
