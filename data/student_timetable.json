@@ -1324,8 +1324,8 @@
     "Semester": 1,
     "Day": "Wednesday",
     "10:00 AM - 11:00 AM": "M1-L, RKD, R1",
-    "11:00 AM - 12:00PM": "CHE-P, YGP, PI",
-    "12:00 PM - 01:00PM": "CHE-P, YGP, PI",
+    "11:00 AM - 12:00PM": "G1, CHE-P, YGP, PI",
+    "12:00 PM - 01:00PM": "G1, CHE-P, YGP, PI",
     "Lunch": "",
     "02:00 PM - 03:00PM": "EMC-L, MKP, R1",
     "03:00 PM - 04:00PM": "",
@@ -1339,8 +1339,8 @@
     "11:00 AM - 12:00PM": "",
     "12:00 PM - 01:00PM": "CHE-L, YGP, R1",
     "Lunch": "",
-    "02:00 PM - 03:00PM": "",
-    "03:00 PM - 04:00PM": "",
+    "02:00 PM - 03:00PM": "G2, CHE-P, YGP, PI",
+    "03:00 PM - 04:00PM": "G2, CHE-P, YGP, PI",
     "04:00 PM - 05:00PM": ""
   },
   {
@@ -1552,11 +1552,11 @@
     "Semester": 1,
     "Day": "Thursday",
     "10:00 AM - 11:00 AM": "PHY-L, MKP, R4",
-    "11:00 AM - 12:00PM": "PHY-P, MKP, ST",
-    "12:00 PM - 01:00PM": "PHY-P, MKP, ST",
+    "11:00 AM - 12:00PM": "G1, PHY-P, MKP, ST",
+    "12:00 PM - 01:00PM": "G1, PHY-P, MKP, ST",
     "Lunch": "",
-    "02:00 PM - 03:00PM": "",
-    "03:00 PM - 04:00PM": "",
+    "02:00 PM - 03:00PM": "G2, PHY-P, MKP, ST",
+    "03:00 PM - 04:00PM": "G2, PHY-P, MKP, ST",
     "04:00 PM - 05:00PM": "BEE-L, JTK, R4"
   },
   {
