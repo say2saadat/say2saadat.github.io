@@ -800,8 +800,8 @@
     "12:00 PM - 01:00PM": "GE-I-L, SSU, R14",
     "Lunch": "",
     "02:00 PM - 03:00PM": "SA-L, FKH, R9",
-    "03:00 PM - 04:00PM": "G2, GE-I-P, SSU + PK;\n  G1, AI-P, ANP + SK",
-    "04:00 PM - 05:00PM": "G2, GE-I-P, SSU + PK;\n  G1, AI-P, ANP + SK"
+    "03:00 PM - 04:00PM": "G2, GE-I-P, SSU + PK;",
+    "04:00 PM - 05:00PM": "G2, GE-I-P, SSU + PK"
   },
   {
     "Branch": "CECA",
@@ -848,8 +848,8 @@
     "12:00 PM - 01:00PM": "AI-L, ANP, R14",
     "Lunch": "",
     "02:00 PM - 03:00PM": "LIB",
-    "03:00 PM - 04:00PM": "G2, BPCAED-P, SSU + PK; G2, GE-I-P, SSU + PK",
-    "04:00 PM - 05:00PM": "G2, BPCAED-P, SSU + ,G1, GE-2-P, SSU + PK"
+    "03:00 PM - 04:00PM": "G2, BPCAED-P, SSU + PK; G1, AI-P, ANP + SK",
+    "04:00 PM - 05:00PM": "G2, BPCAED-P, SSU + PK; G1, AI-P, ANP + SK"
   },
   {
     "Branch": "CECA",
